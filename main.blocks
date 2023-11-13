@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="OC9sB`iH`b]Xe5ZO$fCS">sprite</variable></variables><block type="pxt-on-start" id=";T|^;x?qUPtDLYC-nYx]" x="0" y="0"><statement name="HANDLER"><block type="game_move_sprite" id="L_wfs#vY8D,.$U=yKSfM"><value name="sprite"><block type="variables_get" id="kIziPu)9xH3Ak=on$?.i"><field name="VAR" id="OC9sB`iH`b]Xe5ZO$fCS">sprite</field></block></value><value name="leds"><shadow type="math_number" id="c}L--8HAuNlfCpx)(u#w"><field name="NUM">1</field></shadow></value><next><block type="device_show_leds" id="2v3friS9F.d`gmo~*YS+"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        # # # # # 
+        . . # . .
+        `</field><next><block type="device_print_message" id="5BGG=l%yJ5axP_qexu2g"><value name="text"><shadow type="text" id="[CD[CL8{C89s:uZk{2ks"><field name="TEXT">MERRY CHRISTMAS</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="78l/hPfgV10x}u^`h!5b" x="205" y="0"></block></xml>
